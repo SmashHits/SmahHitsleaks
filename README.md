@@ -1,2 +1,2 @@
 # leaky sink
-website [here](SmahHitsleaks.github.io)
+website SmahHitsleaks.github.io
