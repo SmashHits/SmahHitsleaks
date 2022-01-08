@@ -4,4 +4,4 @@
 
 # YOU
 
-sonic.exe scratch vesion [video](blob:chrome-untrusted://media-app/5d724aad-4ea5-4e0e-b418-05d902acc44c)
+sonic.exe scratch vesion video | blob:chrome-untrusted://media-app/5d724aad-4ea5-4e0e-b418-05d902acc44c
